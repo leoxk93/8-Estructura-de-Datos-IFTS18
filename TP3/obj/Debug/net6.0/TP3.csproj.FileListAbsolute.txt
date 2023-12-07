@@ -1,0 +1,4 @@
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\Estructura de Datos\TP3\obj\Debug\net6.0\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\Estructura de Datos\TP3\obj\Debug\net6.0\TP3.AssemblyInfoInputs.cache
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\Estructura de Datos\TP3\obj\Debug\net6.0\TP3.AssemblyInfo.cs
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\Estructura de Datos\TP3\obj\Debug\net6.0\TP3.csproj.CoreCompileInputs.cache

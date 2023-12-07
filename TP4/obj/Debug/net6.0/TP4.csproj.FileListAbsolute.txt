@@ -1,0 +1,14 @@
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\TP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\TP4.AssemblyInfoInputs.cache
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\TP4.AssemblyInfo.cs
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\TP4.csproj.CoreCompileInputs.cache
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\bin\Debug\net6.0\TP4.exe
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\bin\Debug\net6.0\TP4.deps.json
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\bin\Debug\net6.0\TP4.runtimeconfig.json
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\bin\Debug\net6.0\TP4.dll
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\bin\Debug\net6.0\TP4.pdb
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\TP4.dll
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\refint\TP4.dll
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\TP4.pdb
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\TP4.genruntimeconfig.cache
+C:\Users\leo_x\OneDrive\Escritorio\IFTS N°18\8 Estructura de Datos\TP4\obj\Debug\net6.0\ref\TP4.dll
